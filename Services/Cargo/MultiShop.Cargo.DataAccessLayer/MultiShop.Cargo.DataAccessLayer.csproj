@@ -14,4 +14,8 @@
     <ProjectReference Include="..\..\..\MultiShop.Cargo.EntityLayer\MultiShop.Cargo.EntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Concrete\" />
+  </ItemGroup>
+
 </Project>
